@@ -1,4 +1,4 @@
-# CaesarCipher
+# Caesar Cipher
 
 - In this Project I learned how to use Functions with inputs!
 
